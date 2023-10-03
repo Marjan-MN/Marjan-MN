@@ -1,3 +1,5 @@
+![Github Banner](/Untitled.png)
+
 - 👋 Hi, I’m Marjan
 - 🌱 I’m currently learning Programing.
 - 📫 How to reach me: nazari.mrjn@gmail.com
