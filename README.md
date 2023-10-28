@@ -1,7 +1,7 @@
-![Github Banner](/Untitled.png)
+![Github Banner](/github-header-image.png)
 
 - 👋 Hi, I’m Marjan
-- 🌱 I’m currently learning Programing.
+- 🌱 A Full Stack Developer who enjoys creating user-centric, delightful, and human experiences.
 - 📫 How to reach me: nazari.mrjn@gmail.com
 
 <!---
