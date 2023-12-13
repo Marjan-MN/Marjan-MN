@@ -2,6 +2,7 @@
 
 - 👋 Hi, I’m Marjan
 - 🌱 A Full Stack Developer who enjoys creating user-centric, delightful, and human experiences.
+- 👩🏻‍💻 I am currently learning NetSuite development.
 - 📫 How to reach me: nazari.mrjn@gmail.com
 
 <!---
